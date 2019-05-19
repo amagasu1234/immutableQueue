@@ -5,7 +5,7 @@
   - head: get head element.
 
 #RUN
-  - $sbc run
+  - $sbt run
 
 #API Design
   - [API.pdf](API.pdf) 
